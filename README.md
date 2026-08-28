@@ -9,4 +9,4 @@
 - funções
 - poo
 - assincrono
-- exercício 
+- exercícios 
