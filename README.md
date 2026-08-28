@@ -1,12 +1,12 @@
 # Dart fundamentos 
 
-- primeiros passos 
-- variáveis 
+- primeiros passos
+- variáveis
 - operadores string
-- condicionais 
+- condicionais
 - laços
 - coleções
 - funções
 - poo
-- assincrono
+- assicrono
 - exercícios 
