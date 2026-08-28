@@ -4,9 +4,9 @@
 - variáveis 
 - operadores string
 - condicionais 
--laços
--coleções
--funções
+- laços
+- coleções
+- funções
 - poo
--assincrono
--exercício 
+- assincrono
+- exercício 
