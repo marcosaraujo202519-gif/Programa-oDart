@@ -1,6 +1,6 @@
 void main() {
-  String nome = 'Bruno';
-  int idade = 36;
+  String nome = 'João';
+  int idade = 24;
   double altura = 1.70;
   bool aprovado = true;
 
