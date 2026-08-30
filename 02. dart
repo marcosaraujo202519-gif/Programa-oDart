@@ -1,4 +1,0 @@
-void main() {
-    print ('função main é a porta de entrada do programa');
-    print ('o dart começa a executar o codigo por aqui');
-  }
