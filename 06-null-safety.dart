@@ -1,6 +1,9 @@
-void main() {
-  
-     String? telefone; 
-     print ( telefone); 
-     telefone= '1199999999';
-     print (telefone);
+oid main() {
+  String? telefone;
+
+  print(telefone);
+
+  telefone = '99999-9999';
+
+  print(telefone);
+}
