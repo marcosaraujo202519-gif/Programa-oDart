@@ -1,9 +1,7 @@
 void main() {
-  
   String nome = 'Ariel';
   double nota = 10;
-  
-  print ('aluno: $nome');
-  print('nota final: ${nota.toStringAsFixed(1)}');
-    
-  }
+
+  print('Aluno: $nome');
+  print('Nota final: ${nota.toStringAsFixed(1)}');
+}
